@@ -7,7 +7,7 @@ description: |
 website: https://github.com/infinum/TryoutApps-Shaman-Bitrise-Deploy
 source_code_url: https://github.com/infinum/TryoutApps-Shaman-Bitrise-Deploy
 support_url: https://github.com/infinum/TryoutApps-Shaman-Bitrise-Deploy/issues
-published_at: 2023-10-10T17:23:33.14036+02:00
+published_at: 2023-10-27T09:58:29.316275+02:00
 source:
   git: https://github.com/infinum/TryoutApps-Shaman-Bitrise-Deploy.git
   commit: ce0c22c65ec703435e3eb74e16a30f15c383b1c2
